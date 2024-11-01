@@ -67,5 +67,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Hugging Face Transformers](https://huggingface.co/transformers/) for providing the BLIP model.
 - [Streamlit](https://streamlit.io/) for the framework that makes it easy to build web apps for machine learning.
-
-```
